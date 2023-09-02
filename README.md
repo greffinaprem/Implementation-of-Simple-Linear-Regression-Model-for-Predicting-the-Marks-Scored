@@ -88,22 +88,39 @@ print("RMSE= ",rmse)
 ![simple linear regression model for predicting the marks scored](sam.png)
 
 1. df.head()
+2. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/ff61db94-e7dd-417e-9cbe-41451e349371)
-2. df.tail()
+
+3. df.tail()
+4. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/25c96d3f-a82a-4aa0-b445-9da17ea603cb)
-3. Array value of X
+
+6. Array value of X
+7. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/a19d5d36-26d7-4b96-94fa-f72f9d6286e8)
-4. Array value of Y
+
+9. Array value of Y
+10. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/c86fd129-74fc-463a-a72d-ec6d3ecdccfb)
-5. Values of Y prediction
+
+12. Values of Y prediction
+13. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/63ce9f37-0f52-495f-9f24-3788c7695e63)
-6. Array values of Y test
+
+15. Array values of Y test
+16. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/8e3cd84a-e132-4599-9c8e-dc5c62d7ebb7)
-7. Training Set Graph
+
+18. Training Set Graph
+19. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/5aee74e9-5d87-4a92-b44b-91552c1d5f01)
-8. Test Set Graph
+
+21. Test Set Graph
+22. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/e69cd6a2-09b3-4e36-8337-e3c0315652d6)
-9. Values of MSE, MAE and RMSE
+
+24. Values of MSE, MAE and RMSE
+25. 
 ![image](https://github.com/greffinaprem/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475603/90bd3555-2069-4f86-b51e-7367d4587c26)
 
 
